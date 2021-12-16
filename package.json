@@ -1,0 +1,20 @@
+{
+  "name": "orientacao-a-objeto",
+  "version": "1.0.0",
+  "description": "projeto orientação a objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zetolenttino/orientacao-a-objeto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/zetolenttino/orientacao-a-objeto/issues"
+  },
+  "homepage": "https://github.com/zetolenttino/orientacao-a-objeto#readme"
+}
